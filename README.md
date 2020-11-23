@@ -1,4 +1,4 @@
-# Prolific Pandemic Project
+# 4th Year Project
 ## Integrated Model
 ### Weights
 Download the YOLOv3 weights [here](https://pjreddie.com/darknet/yolo/). Use the YOLOv3-416 as that has a good mAP with over 30 fps. Put it in `Yolo/weights`. The corresponding cfg file is already included.
